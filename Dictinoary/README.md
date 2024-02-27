@@ -1,3 +1,3 @@
-# Python Coursework 01
+Dictionary
 
-Base repo for Pyton Coursework (COMP16321)
+python3 Dict.py
